@@ -78,3 +78,6 @@ scripts. Where that is true, the repositories say so.
 
 Public repositories under this organisation are the parts that stand on their own. Client
 deployments, editorial content, and user data are not here and will not be.
+
+Public tools: [council](https://github.com/aif-forge/council) — the multi-model decision tool the
+deploy decisions here are made with, published with the SPEC it follows and one worked session.
